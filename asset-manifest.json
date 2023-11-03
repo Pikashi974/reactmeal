@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/reactmeal/static/css/main.85861467.css",
-    "main.js": "/reactmeal/static/js/main.d0a84ced.js",
+    "main.js": "/reactmeal/static/js/main.15ddc144.js",
     "static/js/787.0e6ac80d.chunk.js": "/reactmeal/static/js/787.0e6ac80d.chunk.js",
     "index.html": "/reactmeal/index.html",
     "main.85861467.css.map": "/reactmeal/static/css/main.85861467.css.map",
-    "main.d0a84ced.js.map": "/reactmeal/static/js/main.d0a84ced.js.map",
+    "main.15ddc144.js.map": "/reactmeal/static/js/main.15ddc144.js.map",
     "787.0e6ac80d.chunk.js.map": "/reactmeal/static/js/787.0e6ac80d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.85861467.css",
-    "static/js/main.d0a84ced.js"
+    "static/js/main.15ddc144.js"
   ]
 }
