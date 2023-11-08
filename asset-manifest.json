@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/reactmeal/static/css/main.85861467.css",
-    "main.js": "/reactmeal/static/js/main.b7245cff.js",
-    "static/js/787.0e6ac80d.chunk.js": "/reactmeal/static/js/787.0e6ac80d.chunk.js",
-    "index.html": "/reactmeal/index.html",
-    "main.85861467.css.map": "/reactmeal/static/css/main.85861467.css.map",
-    "main.b7245cff.js.map": "/reactmeal/static/js/main.b7245cff.js.map",
-    "787.0e6ac80d.chunk.js.map": "/reactmeal/static/js/787.0e6ac80d.chunk.js.map"
+    "main.css": "/reactrestaurant/static/css/main.85861467.css",
+    "main.js": "/reactrestaurant/static/js/main.c7eab8ed.js",
+    "static/js/787.0e6ac80d.chunk.js": "/reactrestaurant/static/js/787.0e6ac80d.chunk.js",
+    "index.html": "/reactrestaurant/index.html",
+    "main.85861467.css.map": "/reactrestaurant/static/css/main.85861467.css.map",
+    "main.c7eab8ed.js.map": "/reactrestaurant/static/js/main.c7eab8ed.js.map",
+    "787.0e6ac80d.chunk.js.map": "/reactrestaurant/static/js/787.0e6ac80d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.85861467.css",
-    "static/js/main.b7245cff.js"
+    "static/js/main.c7eab8ed.js"
   ]
 }
